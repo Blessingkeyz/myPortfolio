@@ -12,9 +12,9 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Umukoro Blessing is a Frontend Web Developer
+        Umukoro Blessing is a Frontend Mobile and Web Developer
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = "https://www.linkedin.com/in/blessingkome/"}>Learn More</Button>
     </LeftSection>
   </Section>
 );
