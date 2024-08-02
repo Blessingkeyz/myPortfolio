@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "Landing Page built with NextJs for Ogidipearls",
     description:
-      "Successfully created and worked on the Sign Up, Login ,Support, Statistics and Settings pages of a website called Teetree. I also made sure the web pages were responsive and lag free to give a full user experience.Also collaborated with other front end developers through GIT and the UI/UX designers in the team to make the final web app ready",
+      "I had the pleasure of developing the landing page for Ogidipearls, a project that showcases my skills in modern web development and design conversion. Utilizing Next.js, I seamlessly translated a detailed Figma design provided by the UI/UX team into a fully functional, responsive, and visually appealing landing page. Key Features: Tech Stack: Built with Next.js, ensuring fast performance and excellent SEO.  If you're looking for a developer who can bring your designs to life with precision and efficiency, let's work together!",
     image: "/images/1.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://google.com",
@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "E-Commerce",
     description:
-      "Successfully created and worked on the Sign Up and Login pages of a restaurant website which i also worked with other front end developers and UI/UX developers in the team.",
+      "Successfully created and worked on the Sign Up, Login ,Support, Statistics and Settings pages of a website called Teetree. I also made sure the web pages were responsive and lag free to give a full user experience.Also collaborated with other front end developers through GIT and the UI/UX designers in the team to make the final web app ready.",
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
     source: "https://google.com",
